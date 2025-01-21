@@ -26,7 +26,6 @@ L'API espone i seguenti endpoint:
   ```json
   {
     "titolo": "Nuova Task",
-    "descrizione": "Descrizione della nuova task",
     "completa": false
   }
   ```
@@ -40,7 +39,6 @@ L'API espone i seguenti endpoint:
   ```json
   {
     "titolo": "Titolo aggiornato",
-    "descrizione": "Descrizione aggiornata",
     "completa": true
   }
   ```
